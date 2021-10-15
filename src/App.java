@@ -142,7 +142,7 @@ public class App {
                     }else{
                         for(Produto produto : listaProdutos){
 
-                            if(produto.getNome().equalsIgnoreCase(busca)){
+                            if(produto.getNome().equalsIgnoreCase(ler)){
 
                                 System.out.println();
                                 System.out.printf("Nome: " + produto.getNome());
