@@ -2,6 +2,7 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.List;
 
+import modelo.Vendas;
 import modelo.Produto;
 
 public class App {
